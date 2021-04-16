@@ -1,8 +1,8 @@
 # Configure
 
 OAuthToken = 'YourTokenHere'
-ModListFile = 'Path/To/Mods.txt'
-modioGameId = 'GameIdHere'
+ModListFile = 'https://raw.githubusercontent.com/ItsAlxl/modio-collection-subscriber/insurgency-sandstorm/alxlInsurgencySandstormMods.txt'
+modioGameId = '254'
 
 # Script
 
